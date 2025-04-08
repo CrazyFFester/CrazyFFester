@@ -1,3 +1,5 @@
+![](wallpaper.jpg)
+
 # 💫 About Me:
 <br>I'm currently studying at University of Wollongong in Dubai.<br>I am programming Python, C, Rust languages mostly.<br>I have 5 years of amateur programming experience.<br>I developed games on Unity, bots for Discord and Telegram, made a few websites and wrote artificial intelligence on Python
 
