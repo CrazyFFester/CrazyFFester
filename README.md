@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/J2gENcbONT0AAAAi/luffy-gear-5.gif"  />
+<img align="right" height="150" src="luffy-gear-5.gif"  />
 
 ###
 
