@@ -6,7 +6,7 @@
 
 <!-- Greeting -->
 </h1>
-<h1 align="center">👋 Hi I'm Mukhammad Emir, System Programmer</h1>
+<h1 align="center">👋 Hi I'm Mukhammad Emir, Systems Programmer</h1>
 
  <div align="center">
 <a href="https://github.com/CrazyFFester">
