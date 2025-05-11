@@ -3,7 +3,6 @@
   <img src="https://github.com/CrazyFFester/CrazyFFester/blob/main/Images/wallpaper-2.jpg" alt="wallpaper"/>
 </div>
 
-
 <!-- Greeting -->
 <div>
     <h1 align="center">👋 Hi I'm Mukhammad Emir, Backend Programmer</h1>
