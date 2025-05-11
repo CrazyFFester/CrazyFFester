@@ -1,39 +1,35 @@
 <!-- Wallpaper -->
 <div align="left">
-  <img src="https://github.com/CrazyFFester/CrazyFFester/blob/main/Images/wallpaper.jpg"/>
+  <img src="https://github.com/CrazyFFester/CrazyFFester/blob/main/Images/wallpaper-2.jpg" alt="wallpaper"/>
 </div>
 
 
 <!-- Greeting -->
-</h1>
-<h1 align="center">👋 Hi I'm Mukhammad Emir, Backend Programmer</h1>
+<div>
+    <h1 align="center">👋 Hi I'm Mukhammad Emir, Backend Programmer</h1>
+</div>
 
- <div align="center">
-<a href="https://github.com/CrazyFFester">
-  <img width="162px" 
+<div align="center">
+    <a href="https://github.com/CrazyFFester">
+    <img width="162px" 
        src="https://komarev.com/ghpvc/?username=CrazyFFester&label=Profile%20views&color=318CE7&style=for-the-badge" 
        alt="Profile views" /></a>
-<a href="https://api.github-star-counter.workers.dev/user/CrazyFFester">
-  <img width="115px" 
-       alt="Total stars" 
-       title="Total stars on GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/CrazyFFester" /></a>
-<a href="https://github.com/CrazyFFester?tab=followers">
-  <img width="147px" 
+    <a href="https://api.github-star-counter.workers.dev/user/CrazyFFester">
+    <img width="115px" alt="Total stars" title="Total stars on GitHub" 
+    src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/CrazyFFester" /></a>
+    <a href="https://github.com/CrazyFFester?tab=followers">
+    <img width="147px" 
        alt="Followers" 
        title="Follow me on GitHub" 
        src="https://custom-icon-badges.herokuapp.com/github/followers/CrazyFFester?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
  </div>
 
-
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <img align="right" alt="coding-gif" width="270" src="https://github.com/CrazyFFester/CrazyFFester/blob/main/Images/luffy-gear-5.gif">
 
-
 <!-- about me -->
  <h3 align="left">☀️ About Me</h3>
-
 
 <h4> 
 I'm currently studying at University of Wollongong in Dubai.<br>I am programming Python, C, Rust languages mostly.<br>I have 5 years of amateur programming experience.<br>I developed games on Unity, bots for Discord and Telegram, made a few websites and wrote artificial intelligence on Python</h4> <div align="left">
