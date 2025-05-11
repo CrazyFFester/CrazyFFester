@@ -1,6 +1,6 @@
 <!-- Wallpaper -->
 <div align="left">
-  <img src="https://github.com/CrazyFFester/CrazyFFester/blob/main/Images/wallpaper-2.jpg" alt="wallpaper"/>
+  <img src="https://github.com/CrazyFFester/CrazyFFester/blob/main/Images/wallpaper-3.jpg" alt="wallpaper"/>
 </div>
 
 <!-- Greeting -->
