@@ -8,6 +8,7 @@
     <h1 align="center">👋 Hi I'm Mukhammad Emir, Backend Programmer</h1>
 </div>
 
+<!-- Stats -->
 <div align="center">
     <a href="https://github.com/CrazyFFester">
     <img width="162px" 
