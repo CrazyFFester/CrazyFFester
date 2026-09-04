@@ -1,6 +1,6 @@
 <!-- Wallpaper -->
 <div align="left">
-  <img src="https://github.com/CrazyFFester/CrazyFFester/blob/main/Images/wallpaper-3.jpg" alt="wallpaper"/>
+  <img src="https://raw.githubusercontent.com/CrazyFFester/CrazyFFester/main/Images/wallpaper-3.jpg" alt="wallpaper"/>
 </div>
 
 <!-- Greeting -->
@@ -30,7 +30,7 @@
 
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="270" src="https://github.com/CrazyFFester/CrazyFFester/blob/main/Images/luffy-gear-5.gif">
+<img align="right" alt="coding-gif" width="270" src="https://raw.githubusercontent.com/CrazyFFester/CrazyFFester/main/Images/luffy-gear-5.gif">
 
 <!-- about me -->
 <h3 align="left">☀️ About Me</h3>
@@ -62,14 +62,27 @@ I'm currently studying at University of Wollongong in Dubai.<br>I am programming
 </div>
 <br/>
 
+<!-- projects -->
+<h3 align="center">📌 Featured Projects</h3>
+
+<div align="center">
+
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| [**K&R Solutions & Notes**](https://github.com/CrazyFFester/Solutions-and-Notes-for-The-C-Programming-Language-2nd-edition) | Full set of solutions and notes for *The C Programming Language, 2nd ed.* | `C` |
+| [**Internship Management Website**](https://github.com/CrazyFFester/Internship-Management-Website) | Web app that helps students find and track internships | `JavaScript` |
+| [**2D Platformer**](https://github.com/CrazyFFester/2d-platformer) | Unity platformer with custom movement and enemy spawning | `C#` `Unity` |
+
+</div>
+
+<br/>
+
 <!-- git stat-->
 <h3 align="center">⚡ Github Status</h3>
 <br>
 <div align="center">
-  <img width="380" src="https://raw.githubusercontent.com/CrazyFFester/github-stats/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats overview"/>
-  <img width="380" src="https://raw.githubusercontent.com/CrazyFFester/github-stats/generated/overview.svg#gh-light-mode-only" alt="GitHub stats overview"/>
-  <img width="340" src="https://raw.githubusercontent.com/CrazyFFester/github-stats/generated/languages.svg#gh-dark-mode-only" alt="Top Languages"/>
-  <img width="340" src="https://raw.githubusercontent.com/CrazyFFester/github-stats/generated/languages.svg#gh-light-mode-only" alt="Top Languages"/>
+  <img width="380" src="https://raw.githubusercontent.com/CrazyFFester/github-stats/generated/overview.svg" alt="GitHub stats overview"/>
+  <img width="340" src="https://raw.githubusercontent.com/CrazyFFester/github-stats/generated/languages.svg" alt="Top Languages"/>
 </div>
 
 <br/><br/>
