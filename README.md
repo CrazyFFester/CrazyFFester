@@ -1,5 +1,7 @@
 <!-- Banner -->
-<img width="100%" src="https://raw.githubusercontent.com/CrazyFFester/CrazyFFester/main/Images/banner.jpg" alt="banner"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CrazyFFester/CrazyFFester/main/Images/wallpaper-3.jpg" alt="wallpaper" width="100%"/>
+</div>
 
 <h1 align="center">👋 Hi I'm Emir, AI Programmer</h1>
 
