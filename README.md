@@ -37,7 +37,7 @@
 
 <p>
 I'm a Computer Science student at the University of Wollongong in Dubai, coding since 2020.<br>
-Mostly Python and C, currently learning Rust.<br>
+Mostly Python and C.<br>
 I've built games in Unity, Discord and Telegram bots, a few websites, and AI projects in Python.
 </p>
 
