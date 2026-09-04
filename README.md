@@ -5,7 +5,7 @@
 
 <!-- Greeting -->
 <div>
-    <h1 align="center">👋 Hi I'm Mukhammad Emir, AI Programmer</h1>
+    <h1 align="center">👋 Hi I'm Emir, AI Programmer</h1>
 </div>
 
 <div>
