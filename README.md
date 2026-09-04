@@ -9,7 +9,7 @@
 </div>
 
 <div>
-    <h3 align="center">AI • Internet money • Creativity</h1>
+    <h3 align="center">AI • Internet money • Creativity</h3>
 </div>
 
 <!-- Stats -->
@@ -35,8 +35,13 @@
 <!-- about me -->
 <h3 align="left">☀️ About Me</h3>
 
-<h4> 
-I'm currently studying at University of Wollongong in Dubai.<br>I am programming Python, C languages mostly.<br>I am programming since 2020 year.<br>I developed games on Unity, bots for Discord and Telegram, made a few websites and wrote artificial intelligence on Python</h4> <div align="left">
+<p>
+I'm a Computer Science student at the University of Wollongong in Dubai, coding since 2020.<br>
+Mostly Python and C, currently learning Rust.<br>
+I've built games in Unity, Discord and Telegram bots, a few websites, and AI projects in Python.
+</p>
+
+<div align="left">
   
  <a href="https://t.me/CrazyFFester" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" alt="telegram logo"  />
@@ -53,12 +58,10 @@ I'm currently studying at University of Wollongong in Dubai.<br>I am programming
   <a href="https://discord.com/invite/y9pDfSA" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="discord logo"  />
   </a>
-  <a href="eldarbievemir@gmail.com" target="_blank">
+  <a href="mailto:eldarbievemir@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  />
   </a>
     
-</div></h4>
-
 </div>
 <br/>
 
@@ -97,7 +100,7 @@ I'm currently studying at University of Wollongong in Dubai.<br>I am programming
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,linux,neovim,git,github,vscode,cmake,arch,obsidian" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cpp,cs,rust,linux,arch,neovim,git,github,vscode,cmake,obsidian" />
 </p>
 
 <br/>
