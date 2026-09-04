@@ -81,8 +81,10 @@ I'm currently studying at University of Wollongong in Dubai.<br>I am programming
 <h3 align="center">⚡ Github Status</h3>
 <br>
 <div align="center">
-  <img width="380" src="https://raw.githubusercontent.com/CrazyFFester/github-stats/generated/overview.svg" alt="GitHub stats overview"/>
-  <img width="340" src="https://raw.githubusercontent.com/CrazyFFester/github-stats/generated/languages.svg" alt="Top Languages"/>
+  <img width="380" src="https://raw.githubusercontent.com/CrazyFFester/github-stats/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats overview"/>
+  <img width="380" src="https://raw.githubusercontent.com/CrazyFFester/github-stats/generated/overview.svg#gh-light-mode-only" alt="GitHub stats overview"/>
+  <img width="340" src="https://raw.githubusercontent.com/CrazyFFester/github-stats/generated/languages.svg#gh-dark-mode-only" alt="Top Languages"/>
+  <img width="340" src="https://raw.githubusercontent.com/CrazyFFester/github-stats/generated/languages.svg#gh-light-mode-only" alt="Top Languages"/>
 </div>
 
 <br/><br/>
