@@ -8,6 +8,10 @@
     <h1 align="center">👋 Hi I'm Mukhammad Emir, AI Programmer</h1>
 </div>
 
+<div>
+    <h3 align="center">AI • Internet money • Creativity</h1>
+</div>
+
 <!-- Stats -->
 <div align="center">
     <a href="https://github.com/CrazyFFester">
@@ -29,10 +33,10 @@
 <img align="right" alt="coding-gif" width="270" src="https://github.com/CrazyFFester/CrazyFFester/blob/main/Images/luffy-gear-5.gif">
 
 <!-- about me -->
- <h3 align="left">☀️ About Me</h3>
+<h3 align="left">☀️ About Me</h3>
 
 <h4> 
-I'm currently studying at University of Wollongong in Dubai.<br>I am programming Python, C, Rust languages mostly.<br>I have 5 years of amateur programming experience.<br>I developed games on Unity, bots for Discord and Telegram, made a few websites and wrote artificial intelligence on Python</h4> <div align="left">
+I'm currently studying at University of Wollongong in Dubai.<br>I am programming Python, C languages mostly.<br>I am programming since 2020 year.<br>I developed games on Unity, bots for Discord and Telegram, made a few websites and wrote artificial intelligence on Python</h4> <div align="left">
   
  <a href="https://t.me/CrazyFFester" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" alt="telegram logo"  />
@@ -40,10 +44,10 @@ I'm currently studying at University of Wollongong in Dubai.<br>I am programming
   <a href="https://www.youtube.com/@crazyffester95" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt="youtube logo"  />
   </a>
-  <a href="https://instagram.com/cff.lusu" target="_blank">
+  <a href="https://instagram.com/cff.luvsu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"  alt="instagram logo"  />
   </a>
-  <a href="https://www.twitch.tv/crazyffester" target="_blank">
+  <a href="https://www.twitch.tv/cff_code" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" alt="twitch logo"  />
   </a>
   <a href="https://discord.com/invite/y9pDfSA" target="_blank">
@@ -77,21 +81,9 @@ I'm currently studying at University of Wollongong in Dubai.<br>I am programming
 
 <br/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="47" alt="python logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=cs" height="47" alt="csharp logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=c" height="47" alt="c logo"  />
-  <img width="0" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="47" alt="html5 logo"  />
-  <img width="0" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="47" alt="css3 logo"  />
-  <img width="0" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="47" alt="vim logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=rust" height="47" alt="rust logo"  />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,linux,neovim,git,github,vscode,cmake,arch,obsidian" />
+</p>
 
 <br/>
   
