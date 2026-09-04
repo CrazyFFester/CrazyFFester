@@ -100,7 +100,7 @@ I've built games in Unity, Discord and Telegram bots, a few websites, and AI pro
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cpp,cs,rust,linux,arch,neovim,git,github,vscode,cmake,obsidian" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cpp,cs,linux,arch,neovim,git,github,vscode,cmake,obsidian" />
 </p>
 
 <br/>
