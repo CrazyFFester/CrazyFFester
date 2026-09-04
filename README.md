@@ -1,5 +1,7 @@
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:0d1117,100:318CE7&text=Hi%2C%20I%27m%20Emir&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Programmer&descSize=18&descAlignY=54" alt="Hi, I'm Emir — AI Programmer"/>
+<img width="100%" src="https://raw.githubusercontent.com/CrazyFFester/CrazyFFester/main/Images/banner.jpg" alt="banner"/>
+
+<h1 align="center">👋 Hi I'm Emir, AI Programmer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=700&color=318CE7&center=true&vCenter=true&width=520&height=45&lines=AI;Internet+money;Creativity" alt="AI • Internet money • Creativity"/>
