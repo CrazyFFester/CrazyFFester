@@ -65,6 +65,7 @@ I've built games in Unity, Discord and Telegram bots, a few websites, and AI pro
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| [**ETM Smart Theme Recommender**](https://github.com/CrazyFFester/etm-smart-theme-recommender) | University team project for ETM EVENTS: ResNet50 transfer-learning model that matches a client's mood board to an event theme (86% top-1, 96% top-2) | `Python` `TensorFlow` `Gradio` |
 | [**K&R Solutions & Notes**](https://github.com/CrazyFFester/Solutions-and-Notes-for-The-C-Programming-Language-2nd-edition) | Full set of solutions and notes for *The C Programming Language, 2nd ed.* | `C` |
 | [**Internship Management Website**](https://github.com/CrazyFFester/Internship-Management-Website) | Web app that helps students find and track internships | `JavaScript` |
 | [**2D Platformer**](https://github.com/CrazyFFester/2d-platformer) | Unity platformer with custom movement and enemy spawning | `C#` `Unity` |
