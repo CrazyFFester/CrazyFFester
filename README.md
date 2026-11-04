@@ -1,3 +1,4 @@
+<!-- Banner -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/CrazyFFester/CrazyFFester/main/Images/wallpaper-3.jpg" alt="wallpaper" width="100%"/>
 </div>
@@ -12,6 +13,7 @@
   <b>Open to Summer 2027 internships and junior Python / AI roles in Dubai</b>
 </p>
 
+<!-- Counters -->
 <p align="center">
   <a href="https://github.com/CrazyFFester">
     <img width="162px" src="https://komarev.com/ghpvc/?username=CrazyFFester&label=Profile%20views&color=318CE7&style=for-the-badge" alt="Profile views"/></a>
@@ -21,7 +23,9 @@
     <img width="147px" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/CrazyFFester?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="Followers"/></a>
 </p>
 
-***
+---
+
+<!-- About me -->
 <table>
 <tr>
 <td width="62%" valign="top">
@@ -58,19 +62,25 @@
 </tr>
 </table>
 
-***
+---
+
+<!-- Projects -->
 <h3 align="center">📌 Featured Projects</h3>
 
 <div align="center">
 
-Project	What it is	Stack
-ETM Smart Theme Recommender	University team project for ETM EVENTS: ResNet50 transfer-learning model that matches a client's mood board to an event theme (86% top-1, 96% top-2)	Python TensorFlow Gradio
-K&R Solutions & Notes	Full set of solutions and notes for The C Programming Language, 2nd ed.	C
-Internship Management Website	Web app that helps students find and track internships	JavaScript
-2D Platformer	Unity platformer with custom movement and enemy spawning	C# Unity
-	</div>
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| [**ETM Smart Theme Recommender**](https://github.com/CrazyFFester/etm-smart-theme-recommender) | University team project for ETM EVENTS: ResNet50 transfer-learning model that matches a client's mood board to an event theme (86% top-1, 96% top-2) | `Python` `TensorFlow` `Gradio` |
+| [**K&R Solutions & Notes**](https://github.com/CrazyFFester/Solutions-and-Notes-for-The-C-Programming-Language-2nd-edition) | Full set of solutions and notes for *The C Programming Language, 2nd ed.* | `C` |
+| [**Internship Management Website**](https://github.com/CrazyFFester/Internship-Management-Website) | Web app that helps students find and track internships | `JavaScript` |
+| [**2D Platformer**](https://github.com/CrazyFFester/2d-platformer) | Unity platformer with custom movement and enemy spawning | `C#` `Unity` |
 
-***
+</div>
+
+---
+
+<!-- Stats -->
 <h3 align="center">⚡ GitHub Stats</h3>
 
 <p align="center">
@@ -80,14 +90,18 @@ Internship Management Website	Web app that helps students find and track interns
   <img width="400" src="https://raw.githubusercontent.com/CrazyFFester/github-stats/generated/languages.svg#gh-light-mode-only" alt="Top languages"/>
 </p>
 
-***
+---
+
+<!-- Stack -->
 <h3 align="center">💻 Languages and Tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,fastapi,sqlite,mysql,docker,nginx,cloudflare,tensorflow,pytorch,sklearn,linux,arch,git,neovim&perline=9" alt="stack"/>
 </p>
 
-***
+---
+
+<!-- Channel -->
 <h3 align="center">🔔 Telegram Channel</h3>
 
 <p align="center">
@@ -95,7 +109,8 @@ Internship Management Website	Web app that helps students find and track interns
     <img height="35" src="https://img.shields.io/badge/Crazovnik-318CE7?style=for-the-badge&logo=telegram&logoColor=white" alt="Crazovnik on Telegram"/></a>
 </p>
 
-***
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrazyFFester/CrazyFFester/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrazyFFester/CrazyFFester/output/github-snake.svg"/>
