@@ -43,7 +43,7 @@
 <p>
   <a href="https://emir.crazhub.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=318CE7" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/YOUR_HANDLE" target="_blank">
+  <a href="https://linkedin.com/in/mukhammad-emir-eldarbiev-5471a8340" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=318CE7" alt="LinkedIn"/></a>
   <a href="mailto:eldarbievemir@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=318CE7" alt="Gmail"/></a>
