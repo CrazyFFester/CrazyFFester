@@ -64,11 +64,10 @@
 <div align="center">
 
 Project	What it is	Stack
-CrazHub · live, private repo	Creator platform in production: profile page, Telegram mini app and admin panel, one FastAPI service aggregating 4 content sources; I run the whole stack, including security and daily backups	Python FastAPI SQLite Docker nginx Cloudflare
-Akein · private repo	Personal LLM agent in Telegram, self-hosted on my Linux machine; routes open chat to Gemini and private data to a local model via Ollama	Python Gemini Ollama
-ETM Smart Theme Recommender	Team university project for ETM EVENTS: ResNet50 transfer learning that matches a mood board to an event theme (86% top-1, 96% top-2); refactored from Colab into a Python package with a CLI	Python TensorFlow Gradio uv
-K&R Solutions & Notes	Solutions and notes for every exercise in The C Programming Language, 2nd ed.	C
-Internship Management Website	Full-stack web app for posting and applying to internships	JavaScript Express MySQL
+ETM Smart Theme Recommender	University team project for ETM EVENTS: ResNet50 transfer-learning model that matches a client's mood board to an event theme (86% top-1, 96% top-2)	Python TensorFlow Gradio
+K&R Solutions & Notes	Full set of solutions and notes for The C Programming Language, 2nd ed.	C
+Internship Management Website	Web app that helps students find and track internships	JavaScript
+2D Platformer	Unity platformer with custom movement and enemy spawning	C# Unity
 	</div>
 
 ***
