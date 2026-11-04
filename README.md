@@ -1,15 +1,17 @@
-<!-- Banner -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/CrazyFFester/CrazyFFester/main/Images/wallpaper-3.jpg" alt="wallpaper" width="100%"/>
 </div>
 
-<h1 align="center">👋 Hi I'm Emir, AI Programmer</h1>
+<h1 align="center">👋 Hi, I'm Emir — AI & backend developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=700&color=318CE7&center=true&vCenter=true&width=520&height=45&lines=AI;Internet+money;Creativity" alt="AI • Internet money • Creativity"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=700&color=318CE7&center=true&vCenter=true&width=520&height=45&lines=Python+backends;LLM+agents;Machine+learning" alt="Python backends • LLM agents • Machine learning"/>
 </p>
 
-<!-- Counters -->
+<p align="center">
+  <b>Open to Summer 2027 internships and junior Python / AI roles in Dubai</b>
+</p>
+
 <p align="center">
   <a href="https://github.com/CrazyFFester">
     <img width="162px" src="https://komarev.com/ghpvc/?username=CrazyFFester&label=Profile%20views&color=318CE7&style=for-the-badge" alt="Profile views"/></a>
@@ -19,34 +21,34 @@
     <img width="147px" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/CrazyFFester?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="Followers"/></a>
 </p>
 
----
-
-<!-- About me -->
+***
 <table>
 <tr>
 <td width="62%" valign="top">
 
 <h3>☀️ About Me</h3>
 
-<p>
-I'm a Computer Science student at the University of Wollongong in Dubai, coding since 2020.<br>
-Mostly Python and C.<br>
-I've built games in Unity, Discord and Telegram bots, a few websites, and AI projects in Python.
-</p>
+<ul>
+  <li>🎓 Computer Science & AI student at the University of Wollongong in Dubai, graduating Dec 2027</li>
+  <li>🛠 I build Python backends (FastAPI, Docker, nginx) and LLM agents that mix cloud and local models</li>
+  <li>🚀 Running a creator platform in production that I maintain end to end</li>
+  <li>📚 Currently: NeetCode 150, SQL and PostgreSQL, a data project on Dubai real-estate open data</li>
+  <li>🌐 Portfolio: <a href="https://emir.crazhub.com">emir.crazhub.com</a></li>
+</ul>
 
 <p>
+  <a href="https://emir.crazhub.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=318CE7" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/YOUR_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=318CE7" alt="LinkedIn"/></a>
+  <a href="mailto:eldarbievemir@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=318CE7" alt="Gmail"/></a>
   <a href="https://t.me/CrazyFFester" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=318CE7" alt="Telegram"/></a>
   <a href="https://www.youtube.com/@crazyffester95" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=318CE7" alt="YouTube"/></a>
-  <a href="https://instagram.com/cff.luvsu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=318CE7" alt="Instagram"/></a>
   <a href="https://www.twitch.tv/cff_code" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-0d1117?style=for-the-badge&logo=twitch&logoColor=318CE7" alt="Twitch"/></a>
-  <a href="https://discord.com/invite/y9pDfSA" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=318CE7" alt="Discord"/></a>
-  <a href="mailto:eldarbievemir@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=318CE7" alt="Gmail"/></a>
 </p>
 
 </td>
@@ -56,26 +58,21 @@ I've built games in Unity, Discord and Telegram bots, a few websites, and AI pro
 </tr>
 </table>
 
----
-
-<!-- Projects -->
+***
 <h3 align="center">📌 Featured Projects</h3>
 
 <div align="center">
 
-| Project | What it is | Stack |
-| :-- | :-- | :-- |
-| [**ETM Smart Theme Recommender**](https://github.com/CrazyFFester/etm-smart-theme-recommender) | University team project for ETM EVENTS: ResNet50 transfer-learning model that matches a client's mood board to an event theme (86% top-1, 96% top-2) | `Python` `TensorFlow` `Gradio` |
-| [**K&R Solutions & Notes**](https://github.com/CrazyFFester/Solutions-and-Notes-for-The-C-Programming-Language-2nd-edition) | Full set of solutions and notes for *The C Programming Language, 2nd ed.* | `C` |
-| [**Internship Management Website**](https://github.com/CrazyFFester/Internship-Management-Website) | Web app that helps students find and track internships | `JavaScript` |
-| [**2D Platformer**](https://github.com/CrazyFFester/2d-platformer) | Unity platformer with custom movement and enemy spawning | `C#` `Unity` |
+Project	What it is	Stack
+CrazHub · live, private repo	Creator platform in production: profile page, Telegram mini app and admin panel, one FastAPI service aggregating 4 content sources; I run the whole stack, including security and daily backups	Python FastAPI SQLite Docker nginx Cloudflare
+Akein · private repo	Personal LLM agent in Telegram, self-hosted on my Linux machine; routes open chat to Gemini and private data to a local model via Ollama	Python Gemini Ollama
+ETM Smart Theme Recommender	Team university project for ETM EVENTS: ResNet50 transfer learning that matches a mood board to an event theme (86% top-1, 96% top-2); refactored from Colab into a Python package with a CLI	Python TensorFlow Gradio uv
+K&R Solutions & Notes	Solutions and notes for every exercise in The C Programming Language, 2nd ed.	C
+Internship Management Website	Full-stack web app for posting and applying to internships	JavaScript Express MySQL
+	</div>
 
-</div>
-
----
-
-<!-- Stats -->
-<h3 align="center">⚡ GitHub Status</h3>
+***
+<h3 align="center">⚡ GitHub Stats</h3>
 
 <p align="center">
   <img width="400" src="https://raw.githubusercontent.com/CrazyFFester/github-stats/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats overview"/>
@@ -84,18 +81,14 @@ I've built games in Unity, Discord and Telegram bots, a few websites, and AI pro
   <img width="400" src="https://raw.githubusercontent.com/CrazyFFester/github-stats/generated/languages.svg#gh-light-mode-only" alt="Top languages"/>
 </p>
 
----
-
-<!-- Stack -->
+***
 <h3 align="center">💻 Languages and Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cpp,cs,linux,arch,neovim,git,github,vscode,cmake,obsidian&perline=7" alt="stack"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,fastapi,sqlite,mysql,docker,nginx,cloudflare,tensorflow,pytorch,sklearn,linux,arch,git,neovim&perline=9" alt="stack"/>
 </p>
 
----
-
-<!-- Channel -->
+***
 <h3 align="center">🔔 Telegram Channel</h3>
 
 <p align="center">
@@ -103,8 +96,7 @@ I've built games in Unity, Discord and Telegram bots, a few websites, and AI pro
     <img height="35" src="https://img.shields.io/badge/Crazovnik-318CE7?style=for-the-badge&logo=telegram&logoColor=white" alt="Crazovnik on Telegram"/></a>
 </p>
 
----
-
+***
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrazyFFester/CrazyFFester/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrazyFFester/CrazyFFester/output/github-snake.svg"/>
